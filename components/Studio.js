@@ -37,11 +37,11 @@ export default function Studio() {
       <div className="home">
         <div className="logo"><span className="dot" />Podcast Studio</div>
         <div className="card" style={{ marginTop: 24 }}>
-          <h2>Belum disetting</h2>
+          <h2>Konfigurasi belum lengkap</h2>
           <p className="muted">
             Isi <code>NEXT_PUBLIC_SUPABASE_URL</code> dan <code>NEXT_PUBLIC_SUPABASE_ANON_KEY</code> di
             file <code>.env.local</code> (lokal) atau di Vercel → Settings → Environment Variables,
-            terus jalanin ulang / redeploy. Lihat README.
+            lalu jalankan ulang / redeploy. Lihat README.
           </p>
         </div>
       </div>
